@@ -17,6 +17,10 @@ threading
 math
 random
 
+## How to play: 
+
+Please refer to the FOP_Assignment_W.M.Naradha_20469160.pdf for user guide and also other simulations that were completed with the application. 
+
 ## Contents:
 
 The file map shows all the contents in the program, the plots in the respective results folders are removed.
