@@ -1,4 +1,4 @@
-## GameOfCats-Naradha
+# GameOfCats-Naradha
 Python based game to simulate cats in a 2d space. The user can add cats into a custom 2d csv based map. The code simulates cats hunger, thirst, fatigue and stress. It also includes cat to cat interactions such as fighting, mating and parent-child relationships. Please read the readme before attempting to play it.
 
 README FOR Game Of Cats By W.M.Naradha
@@ -17,12 +17,17 @@ threading
 math
 random
 
+## How to play: 
+
+Please refer to the FOP_Assignment_W.M.Naradha_20469160.pdf for user guide and also other simulations that were completed with the application. 
+
 ## Contents:
 
 The file map shows all the contents in the program, the plots in the respective results folders are removed.
 
 File Map:
 GOC_CreatedByNaradha
+```
 ├── README
 ├── setup.sh
 ├── GameOfCats_W.M.Naradha_20469160.pdf
@@ -114,7 +119,9 @@ GOC_CreatedByNaradha
         │   └── Terrain_Testing2-plots-20211010-192640
         ├── Terrain_Testing2.csv
         └── Terrain_Testing2terrain.csv
+```
 
 44 directories, 4780 files
 
-# Note that all the save logs have been exluded due to size issues with git. 
+>[!NOTE] 
+>Note that all the save logs have been exluded due to size issues with git. 
