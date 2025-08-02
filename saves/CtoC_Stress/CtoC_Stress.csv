@@ -1,0 +1,6 @@
+Sim,CtoC_Stress,Moore,1440,12,12,100,,ALL
+Cat,c0,Male,-2909,8,7,0.0,0.0,0.0,0.0,0.0,0.002,False,False,False,False,False,0,,water,False,None,0,0,False,0.0,0
+Cat,c1,Female,-3500,6,9,0.0,0.0,0.0,0.0,0.0,0.002,False,False,False,False,False,0,,water,False,None,0,0,False,0.0,0
+Landmark,water,water,171,2,['all'],False,1.0,0.0,3,2
+Landmark,food,food,266,2,['all'],False,1.0,0.0,8,8
+Landmark,bed,bed,57,2,['all'],False,101.0,0.0,5,2
