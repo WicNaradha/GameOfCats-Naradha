@@ -1,0 +1,7 @@
+Sim,CtoC_extensive,Moore,100,12,12,0,,ALL
+Cat,c0,Male,-1967,3,3,0.0,0.0,0.0,0.0,0.0,0.002,False,False,False,False,False,0,,food,False,None,0,0,False,0.0,0
+Cat,c1,Female,-2000,1,5,0.0,0.0,0.0,0.0,0.0,0.002,False,False,False,False,False,0,,food,False,None,0,0,False,0.0,0
+Landmark,water,water,1000,3,['all'],False,1.0,0.0,3,2
+Landmark,food,food,500,3,['all'],False,1.0,0.0,8,8
+Landmark,bed,bed,0,2,['all'],False,101.0,0.0,5,2
+Landmark,box,box,1.25,2,['all'],False,101.0,0.0,3,5
